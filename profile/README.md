@@ -14,9 +14,9 @@ Check out our [website](https://chaitinschool.org/) and our
 
 ## Events
 
-Our events range from presentations to reading groups and hack nights. We
-usually aim to have events that incorporate participation from all attendees,
-rather than lecture-style ones.
+Our [events](https://chaitinschool.org/events/) range from presentations to
+reading groups and hack nights. We usually aim to have events that incorporate
+participation from all attendees, rather than lecture-style ones.
 
 ## About
 
