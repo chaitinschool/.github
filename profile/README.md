@@ -1,4 +1,4 @@
-# Welcome to Chaitin School
+# Welcome to Chaitin School!
 
 We are a community of people interested in software engineering as a fun
 activity of leisure time as well as a craft to become skilled at. 
